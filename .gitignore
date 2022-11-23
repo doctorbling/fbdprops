@@ -1,0 +1,10 @@
+node_modules/
+build/
+!README.md
+!java-emf-theia-example.code-workspace
+!package.json
+!yarn.lock
+!.gitignore
+
+
+
